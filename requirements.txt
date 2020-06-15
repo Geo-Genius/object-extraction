@@ -1,0 +1,6 @@
+click
+numpy~=1.15
+rasterio>=1.0.9
+torch
+torchvision
+scipy
